@@ -1,5 +1,5 @@
-# BUAN6356: Project
-Pima Indians Diabetes Prediction
+# Project: Pima Indians Diabetes Prediction 
+BUAN6356: Pima Indians Diabetes Prediction
 
 A research conducted by National Institute of Diabetes and Digestive and Kidney diseases (NIH), one of the prominent medical research centers, shows that diabetes affects 30.30 million people closely in United States. Also, NIH claims that diabetes is the seventh leading cause of death. U.S. Department of Health & Human Services, a government organization reports 15 million women in the United States have diabetes. Therefore, this project aims to awake our awareness of diabetes and help detect whether a patient has diabetes or not.
 The dataset that is chosen is originally from the ‘National Institute of Diabetes and Digestive and Kidney Diseases’, Maryland, US and is named as ‘Pima Indians Diabetes Database’. The dataset consists of eight medical predictor variables and one target variable, ‘Outcome’. The predictor variables include the number of pregnancies the patient has had, their BMI (Body Mass Index) level, insulin levels, age, blood pressure, glucose, skin thickness, and diabetes pedigree function.
